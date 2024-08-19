@@ -26,9 +26,9 @@ The Job Search Frontend is the client-side application that interacts with the J
 ## Pages
 
 - **`/jobs`**: The main job search page where users can search and filter job listings.
-- **`/jobs/[id]`**: The job details page, displaying detailed information about a specific job.
+- **`/jobs-details/[id]`**: The job details page, displaying detailed information about a specific job.
 - **`/profile`**: The user's profile page where they can manage their personal information.
-- **`/liked-jobs`**: A page displaying the jobs liked by the user.
+- **`/liked`**: A page displaying the jobs liked by the user.
 - **`/login`**: The login page for user authentication.
 - **`/create-profile`**: The registration page for new users.
 
